@@ -1,2 +1,1 @@
-### Hi there 👋 
-<a href="https://info.flagcounter.com/Ffs8"><img src="https://s01.flagcounter.com/map/Ffs8/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+### Hi there 👋 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyinghuali&label=Visitors&labelColor=%23697689&countColor=%23d9e3f0&style=flat)
