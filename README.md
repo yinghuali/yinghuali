@@ -1,3 +1,2 @@
-### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yinghuali.yinghuali)
+### Hi there 👋 <img src="https://visitor-badge.laobi.icu/badge?page_id=yinghuali.visitor-badge" alt="visitor badge"/> 
 
